@@ -1,0 +1,8 @@
+opencv-python
+cython
+scikit-learn==0.19.0
+imgaug
+pickle
+h5py
+PyYAML
+tqdm
